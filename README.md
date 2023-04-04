@@ -1,4 +1,4 @@
-# DAA-CIA-2
+# DAA-CIA-2 Evolutionary Algorithms
 CIA-2 Assignment
 1. Genetic Algorithm for Travelling Salesman Problem
 2. Genetic Algorithm for Sine Wave
